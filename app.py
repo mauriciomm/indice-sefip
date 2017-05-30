@@ -23,3 +23,6 @@ def main(mes_ini_compt, mes_fim_compt, ano_ini_compt, ano_fim_compt, dia_ini_pgt
 
 if __name__ == "__main__":
     app.run()
+
+
+   # Exemplo de url: http://0.0.0.0:5000/mes_ini_compt/04/mes_fim_compt/06/ano_ini_compt/2007/ano_fim_compt/2007/dia_ini_pgto/30/mes_ini_pgto/05/ano_ini_pgto/2017/dia_fim_pgto/30/mes_fim_pgto/05/ano_fim_pgto/2017/tipo_iden_empresa/1/cod_fpas/000/cod_simples/1/opcao/1967/cod_categoria/1/index_categoria/1/index_opcao/1/index_tipo_iden_empresa/1/index_cod_fpas/3/index_cod_simples/1
